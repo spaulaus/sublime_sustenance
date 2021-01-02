@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Sublime Sustenance
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Recipes for tasty food
 author:
-  name:
+  name: Stan Paulauskas
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+  name: Sublime Sustenance
+#  links:
+#    - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+#timezone: America/New_York
 
 paginate: 10
 paginate_path: "/:num/"
@@ -73,16 +73,16 @@ exclude:
 # -----------
 # CloudCannon
 
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+#social_icons:
+#  - Facebook
+#  - Google Plus
+#  - Instagram
+#  - LinkedIn
+#  - Pinterest
+#  - Tumblr
+#  - Twitter
+#  - YouTube
+#  - RSS
 
 _options:
   author_image:
