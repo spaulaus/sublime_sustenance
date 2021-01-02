@@ -1,5 +1,5 @@
 ---
-date: 2017-01-05
+date: 2019-10-09
 title: Aunt Connie's Potato Salad
 categories:
   - Veggies
