@@ -2,7 +2,7 @@
 date: 2016-02-17
 title: Fennel Cornmeal Wafers
 categories:
-    - Dessert
+    - Desserts
 featured_image: 
 recipe:
     servings: 4

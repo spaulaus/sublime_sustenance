@@ -1,6 +1,6 @@
 ---
 date: 2016-08-03
-title: monkeybread
+title: Monkey Bread
 categories:
     - Desserts
 featured_image: 

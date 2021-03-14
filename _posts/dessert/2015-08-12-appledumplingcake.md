@@ -1,8 +1,8 @@
 ---
 date: 2015-08-12
-title: appledumplingcake
+title: Apple Dumpling Cake
 categories:
-    - Dessert
+    - Desserts
 featured_image: 
 recipe:
     servings: 

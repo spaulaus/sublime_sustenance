@@ -2,7 +2,7 @@
 date: 2017-03-01
 title: Soft Frosted Sugar Cookies
 categories:
-    - desserts
+    - Desserts
 featured_image: 
 recipe:
     servings: 

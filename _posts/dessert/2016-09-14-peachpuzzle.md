@@ -1,6 +1,6 @@
 ---
 date: 2016-09-14
-title: peachpuzzle
+title: Peach Puzzle
 categories:
     - Desserts
 featured_image: 
