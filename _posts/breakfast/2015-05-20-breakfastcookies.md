@@ -19,12 +19,12 @@ recipe:
         * 1/4 cup Chopped nuts (any kind is good, play around)
         * 1 Tablespoon vanilla
     directions_markdown: |-
-        * Preheat oven to 350 F
-        * Place all ingredients in a large bowl and stir with a wooden spoon until well incorporated.
-        * Line a cookie sheet with parchment paper.
-        * Place rounded spoonfuls of dough onto the parchment lined cookie sheet. Flatten with a spoon.
-        * Bake in preheated oven for 25 minutes. Remove and let set for 3 minutes on the baking sheet before removing to a cooling rack.
-        * Store in the fridge for up to a week.
+        1. Preheat oven to 350 F
+        1. Place all ingredients in a large bowl and stir with a wooden spoon until well incorporated.
+        1. Line a cookie sheet with parchment paper.
+        1. Place rounded spoonfuls of dough onto the parchment lined cookie sheet. Flatten with a spoon.
+        1. Bake in preheated oven for 25 minutes. Remove and let set for 3 minutes on the baking sheet before removing to a cooling rack.
+        1. Store in the fridge for up to a week.
 ---
 Here's the deal. These things are delicious. I put in an extra banana sometimes. I sometimes use corn syrup instead of 
 the honey. These cookies are pretty forgiving, play around with them and see what you get. Best served in the morning 

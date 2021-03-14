@@ -17,13 +17,13 @@ recipe:
         * 0.5 c milk
         * 1 T olive oil
     directions_markdown: |-
-        * Preheat oven to 350 F
-        * Finely grate cheese into a bowl, and add the next 4 ingredients; mix well.
-        * Add the wet ingredients and mix thoroughly to form a soft dough.
-        * Knead on a lightly floured surface until smooth and no longer sticky; adding additional flour as necessary
-        * Pat dough into rectangle, generously flour both sides.
-        * Place on baking stone or pizza pan and roll out to edges; prick surface with fork
-        * Cut dough into 12 rectangles with pizza cutter
-        * Bake 23 to 26 minutes or until deep golden brown
+        1. Preheat oven to 350 F
+        1. Finely grate cheese into a bowl, and add the next 4 ingredients; mix well.
+        1. Add the wet ingredients and mix thoroughly to form a soft dough.
+        1. Knead on a lightly floured surface until smooth and no longer sticky; adding additional flour as necessary
+        1. Pat dough into rectangle, generously flour both sides.
+        1. Place on baking stone or pizza pan and roll out to edges; prick surface with fork
+        1. Cut dough into 12 rectangles with pizza cutter
+        1. Bake 23 to 26 minutes or until deep golden brown
 ---
 Some rectangles may cook faster than others, you may remove them and continue to bake the rest.
