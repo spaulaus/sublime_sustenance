@@ -1,13 +1,13 @@
 ---
 date: 2015-07-22
-title: morningglorymuffins
+title: Morning Glory Muffins
 categories:
-    - breakfast
+    - Breakfast
 featured_image: 
 recipe:
-    servings: 
-    prep: 
-    cook: 
+    servings: 18
+    prep: 15 min
+    cook: 20 min
     ingredients_markdown: |-
         * 1 cup whole wheat flour (about 4 3/4 ounces)
         * 1/2 cup all-purpose flour (about 2 1/4 ounces)
@@ -36,3 +36,4 @@ recipe:
         * Bake at 350 F for 20 minutes or until muffins spring back when touched lightly in center.
         * Remove muffins from pans immediately; cool on a wire rack.
 ---
+*Chuckle...*

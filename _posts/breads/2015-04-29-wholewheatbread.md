@@ -2,7 +2,7 @@
 date: 2015-04-29
 title: Whole Wheat Bread
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     servings: 

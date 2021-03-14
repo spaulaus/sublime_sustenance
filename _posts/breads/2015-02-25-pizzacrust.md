@@ -2,7 +2,7 @@
 date: 2015-02-25
 title: Pizza Crust
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     servings: 12

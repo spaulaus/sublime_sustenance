@@ -2,7 +2,7 @@
 date: 2015-03-18
 title: Polish Sourdough
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     prep: 4.5 hours

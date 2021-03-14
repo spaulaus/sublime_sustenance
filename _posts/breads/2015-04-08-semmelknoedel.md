@@ -2,7 +2,7 @@
 date: 2015-04-08
 title: Semmelknodel
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     servings: 

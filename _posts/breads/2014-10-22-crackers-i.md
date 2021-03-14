@@ -2,7 +2,7 @@
 date: 2014-10-22
 title: Crackers - Version 1
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     servings: 4

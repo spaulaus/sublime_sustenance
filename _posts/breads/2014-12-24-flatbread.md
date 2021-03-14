@@ -2,7 +2,7 @@
 date: 2014-12-24
 title: Flatbread
 categories:
-    - breads
+    - Bread
 featured_image: 
 recipe:
     servings: 12
