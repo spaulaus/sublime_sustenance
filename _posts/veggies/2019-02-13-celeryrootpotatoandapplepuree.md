@@ -1,13 +1,11 @@
 ---
 date: 2019-02-13
-title: celeryrootpotatoandapplepuree
+title: Celery Root Potato and Apple Puree
 categories:
-    - veggies
-featured_image: 
+    - Veggies
 recipe:
-    servings: 
-    prep: 
-    cook: 
+    prep: 20 min 
+    cook: 20 min
     ingredients_markdown: |-
         * 1 pound Yukon gold potatoes, peeled and cut into large pieces
         * 2 large celery roots, about 2 pounds, peeled and cut into large pieces

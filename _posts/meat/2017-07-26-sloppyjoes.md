@@ -1,6 +1,6 @@
 ---
 date: 2017-07-26
-title: sloppyjoes
+title: Sloppy Joes
 categories:
     - Meat
 featured_image: 
