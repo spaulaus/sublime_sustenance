@@ -2,7 +2,7 @@
 date: 2015-06-10
 title: Classic Bran Muffins
 categories:
-    - breakfast
+    - Breakfast
 featured_image: 
 recipe:
     servings: 12

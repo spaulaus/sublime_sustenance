@@ -2,7 +2,7 @@
 date: 2015-07-01
 title: Homemade Oat Cereal
 categories:
-    - breakfast
+    - Breakfast
 featured_image: 
 recipe:
     servings: 
