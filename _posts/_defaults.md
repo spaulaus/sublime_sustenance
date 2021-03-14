@@ -2,7 +2,7 @@
 title:
 categories:
 date:
-featured_image:
+featured_image: {{% link /images/pexels-karolina-grabowska-4199098.jpg %}}
 recipe:
   servings:
   prep:
