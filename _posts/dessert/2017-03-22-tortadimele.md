@@ -3,7 +3,6 @@ date: 2017-03-22
 title: Torta di Mele
 categories:
     - Desserts
-    - Cakes
 featured_image: 
 recipe:
     servings: 6-8 

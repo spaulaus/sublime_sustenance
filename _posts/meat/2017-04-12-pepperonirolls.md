@@ -3,7 +3,6 @@ date: 2017-04-12
 title: Pepperoni Rolls
 categories:
     - Meat
-    - Bread
 featured_image: 
 recipe:
     servings: 12

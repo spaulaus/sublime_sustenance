@@ -3,7 +3,6 @@ date: 2015-09-23
 title: Baked Doughnuts
 categories:
     - Desserts
-    - Breakfast
 featured_image: 
 recipe:
     servings: 

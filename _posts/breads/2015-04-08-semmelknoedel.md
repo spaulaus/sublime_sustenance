@@ -3,6 +3,10 @@ date: 2015-04-08
 title: Semmelknodel
 categories:
     - Bread
+tags: 
+    - German
+    - Bread
+    - Bacon
 featured_image: 
 recipe:
     servings: 
