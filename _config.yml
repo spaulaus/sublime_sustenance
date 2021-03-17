@@ -25,7 +25,7 @@ social:
 
 #timezone: America/New_York
 
-paginate: 10
+paginate: 5
 paginate_path: "/:num/"
 permalink: pretty
 
@@ -63,6 +63,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+
+include: ['_pages']
 
 exclude:
   - Gemfile
