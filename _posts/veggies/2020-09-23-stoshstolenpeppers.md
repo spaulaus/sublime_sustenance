@@ -3,6 +3,10 @@ date: 2020-09-23
 title: Stosh's Stolen Peppers
 categories:
     - Veggies
+tags:
+    - spicy
+    - habanero
+    - jalapeno
 recipe:
     prep: 45 min 
     cook: 2-3 hours
@@ -24,9 +28,9 @@ recipe:
         * salt to taste
         * 5 T olive oil
     directions_markdown: |-
-        1. Coat the peppers in the oil and char in the oven until the skins are
-        1. Remove the skins from the tomatoes by immersing in boiling water for
+        1. Coat the peppers in the oil and char in the oven until the skins are blackened.
+        1. Remove the skins from the tomatoes by immersing in boiling water for 30 seconds and then immersing in a cold water bath.
         1. Coarsely chop tomatoes and peppers.
-        1. Add everything into a large pot and simmer until desired thickness is
+        1. Add everything into a large pot and simmer until desired thickness is reached.
 ---
 A Stanley P. original. They get their name from the fact that I made up the recipe after trying a friend's version.
