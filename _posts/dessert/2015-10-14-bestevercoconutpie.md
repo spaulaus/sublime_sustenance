@@ -16,7 +16,7 @@ recipe:
         * 1 teaspoon vanilla
         * 1 1/3 cups grated coconut (3 ounce can)
         * pinch salt
-        * 1 unbaked pie pastry, 9-inch, See \pageref{grandmaspiecrust}
+        * 1 9-inch [pie crust](/desserts/2016/05/11/grandmaspiecrust/)
     directions_markdown: |-
         1. Preheat oven to 350 F.
         1. Combine eggs, sugar, butter, lemon juice, vanilla, and salt; mix well.

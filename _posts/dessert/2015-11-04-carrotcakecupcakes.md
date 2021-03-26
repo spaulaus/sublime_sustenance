@@ -21,11 +21,12 @@ recipe:
         * 1/4 cup orange juice (pref. freshly squeezed)
         * 1/2 tsp vanilla extract
         * 1 1/2 cups shredded carrot
+        * 1 batch [Cream Cheese Frosting](/desserts/2016/01/06/creamcheesefrosting/)
     directions_markdown: |-
         1. Preheat the oven to 350 F. Line a 12-cup muffin pan with paper liners.
         1. In a medium bowl, whisk together flour, baking soda, spices and salt.
         1. In a large bowl, beat together sugar and eggs until smooth. Whisk in melted butter, orange juice and vanilla extract. Gradually stir in flour mixture until only a few streaks of dry ingredients remain. Stir in shredded carrots, then divide evenly into prepared muffin pan.
         1. Bake for 16-18 minutes, until a toothpick inserted into the center comes out clean.
         1. Cool completely on a wire rack before frosting.
-        1. Frost with Cream Cheese Frosting (pg. \pageref{creamcheesefrosting})
+        1. Frost with Cream Cheese Frosting
 ---

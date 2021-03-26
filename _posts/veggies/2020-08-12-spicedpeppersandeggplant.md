@@ -12,8 +12,8 @@ recipe:
         * 0.75 tsp. coriander seeds, crushed
         * 0.75 tsp. cumin seeds, crushed
         * Pinch of saffron threads (optional)
-        * 4 Sweet peppers, any color (about 1 lb.), cut into 2'' strips
-        * 2 Baby eggplants (about 0.5 lb.), quartered lengthwise, or 0.5 large eggplant, cut into 2x1 in$^2$ pieces
+        * 4 Sweet peppers, any color (about 1 lb.), cut into 2" strips
+        * 2 Baby eggplants (about 0.5 lb.), quartered lengthwise, or 0.5 large eggplant, cut into 2x1 in<sup>2</sup> pieces
         * Kosher salt and freshly ground black pepper
         * 2 Tbsp. red wine vinegar
         * 1 cup torn fresh basil leaves

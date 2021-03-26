@@ -9,7 +9,7 @@ recipe:
     prep: 1 hour
     cook: 45 min
     ingredients_markdown: |-
-        * Chilled Pate Brisee (pg. \pageref{patebrisee})
+        * Chilled [Pate Brisee](/desserts/2016/08/24/patebrisee/)
         * 1 1/2 pounds trimmed rhubarb, cut into 1/4 inch pieces (about 5 cups)
         * 1 cup chopped fresh strawberries
         * 1/4 cup cornstarch

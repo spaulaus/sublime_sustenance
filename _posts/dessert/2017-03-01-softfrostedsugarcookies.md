@@ -15,7 +15,8 @@ recipe:
         * 2 eggs
         * 1 teaspoon vanilla extract
         * 3 cups all-purpose flour
-        * 1 teaspoon salt\1 teaspoon baking soda
+        * 1 teaspoon salt
+        * 1 teaspoon baking soda
         * 1/4 cup butter
         * 3 cups confectioners' sugar
         * 1 1/2 teaspoons vanilla extract, or more to taste

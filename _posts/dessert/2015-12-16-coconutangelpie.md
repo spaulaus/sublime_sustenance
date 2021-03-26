@@ -19,7 +19,7 @@ recipe:
         * 1 cup shredded coconut
         * 2 tablespoons sugar
         * 1 cup sliced peaches, bananas or strawberries
-        * 1 9in pie crust (pg. \pageref{grandmaspiecrust})
+        * 1 9in [pie crust](/desserts/2016/05/11/grandmaspiecrust/)
     directions_markdown: |-
         1. Combine graham crackers and melted butter. Pat firmly into 9-inch pie pan.
         1. Beat egg whites until frothy; add salt and vinegar, and beat until stiff. Gradually add the 1 cup sugar, 2 tablespoons at a time, beating thoroughly after each addition.

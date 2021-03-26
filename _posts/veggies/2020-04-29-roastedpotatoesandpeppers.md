@@ -16,8 +16,8 @@ recipe:
         * spice mixes of your choice
         * sea salt and pepper
     directions_markdown: |-
-        1. Preheat oven to 425{F}.
-        1. Line a non-insulated cookie sheet with parchment paper or Al Foil.
+        1. Preheat oven to 425 F.
+        1. Line a non-insulated cookie sheet with parchment paper or AL Foil.
         1. In a large bowl toss the potatoes and peppers in the oil and spices to ensure good coverage.
         1. Roast in the oven, flipping once halfway through cooking, until deep golden, about 40 minutes.
 ---

@@ -16,6 +16,7 @@ recipe:
         * 2 tablespoons unsalted butter
         * 1/2 tablespoon vanilla extract
         * 1/8 teaspoon salt
+
         **Dough**
         * 1 1/4 cups all-purpose flour
         * 2 tablespoons granulated sugar

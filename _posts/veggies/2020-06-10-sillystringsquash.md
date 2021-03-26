@@ -16,7 +16,7 @@ recipe:
     directions_markdown: |-
         1. Preheat oven to 350 F
         1. Slice squash in half, remove seeds
-        1. Place cut side down in a 9 x 13 in$^2$ baking dish
+        1. Place cut side down in a 9 x 13 in<sup>2</sup> baking dish
         1. Pour hot water around the squash to a depth of 1 in
         1. Bake 50 to 55 minutes or until tender
         1. Using a fork, remove the strands into a serving bowl

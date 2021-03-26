@@ -16,7 +16,7 @@ recipe:
         * 2 teaspoons balsamic vinegar
         * a bit of flour
         * zest of one lemon
-        * 1 pie crust, see pg. \pageref{grandmaspiecrust}
+        * 1 9" [pie crust](/desserts/2016/05/11/grandmaspiecrust/)
         * 1 egg whisked with a tablespoon of water
     directions_markdown: |-
         1. Preheat the oven to 400 F

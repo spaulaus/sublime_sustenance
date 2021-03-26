@@ -9,8 +9,8 @@ recipe:
     prep: 20 min
     cook: 30-40 min
     ingredients_markdown: |-
-        * 1 batch of Pizza Dough, pg \pageref{pizzadough}
-        * 1 lb. peeled and cored tomatos, chopped
+        * 1 batch of [Pizza Dough](/bread/2015/02/25/pizzacrust/)
+        * 1 lb. peeled and cored tomatoes, chopped
         * 1 lb. mozzarella cheese, sliced
         * 2 tsp. crumbled oregano
         * other delicious traditional Italian herbs (Basil!!)

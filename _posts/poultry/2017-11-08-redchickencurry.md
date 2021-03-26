@@ -16,7 +16,7 @@ recipe:
         * 2 kaffir lime leaves, OR substitute bay leaves
         * 1/2 cinnamon stick (OR add 1/4 tsp. cinnamon to the sauce)
         * handful fresh basil and coriander/cilantro
-        * 1 [Batch of Red Curry Sauce]({{% post_url sauces/2018-05-16-redcurrysauce.md %}})
+        * 1 [Batch of Red Curry Sauce](/sauces/2018/05/16/redcurrysauce/)
     directions_markdown: |-
         1. Preheat oven to 350 degrees. Then place chicken pieces in a fairly large casserole dish.
         1. Pour the curry sauce over the chicken. Add the chopped eggplant (if using), plus kaffir lime leaves/bay leaf and cinnamon stick, mixing everything into the sauce. Cover and bake 45 minutes at 350 degrees. Note: if you prefer more sauce, add 1/4 to 1/3 cup good-tasting chicken stock.

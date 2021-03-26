@@ -19,6 +19,7 @@ recipe:
         * 4 dried kashmiri red chili
         * few curry leaves
         * 2 T coconut, grated
+        
         **For Hotel Sambar**
         * 1 c tamarind extract
         * 0.5 t tumeric
@@ -34,6 +35,7 @@ recipe:
         * 1 c water
         * 1.5 c toor dal, cooked
         * 2 T coriander, finely chopped
+        
         **For Tempering**
         * 2 t oil
         * 1 t mustard /rai

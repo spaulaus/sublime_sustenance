@@ -9,8 +9,8 @@ recipe:
     cook: 10-15 min
     ingredients_markdown: |-
         * 1 Bunch Kale (Dinosaur or Lacinato are tasty)
-        * 1{T} Olive Oil
-        * 1{t} Seasoned Salt or Sea Salt
+        * 1 T Olive Oil
+        * 1 t Seasoned Salt or Sea Salt
     directions_markdown: |-
         1. Preheat oven to 350 F.
         1. Line a non-insulated cookie sheet with parchment paper.

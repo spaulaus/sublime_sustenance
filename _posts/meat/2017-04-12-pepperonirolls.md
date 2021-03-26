@@ -9,12 +9,14 @@ recipe:
     prep: 1.5 hours
     cook: 20-30 minutes
     ingredients_markdown: |-
-        * 1 Batch of Homemade Roll Dough (\pageref{pillowsoftdinnerrolls})
+        * 1 Batch of [Homemade Roll Dough](/bread/2015/02/24/pillow-soft-dinner-rolls/)
         * 24 slices, pieces, whatever Mozzarella cheese
         * 48 slices, chunks, pieces, whatever Pepperoni
     directions_markdown: |-
         1. Prepare the dough as per the instructions
-        1. After forming dough into the individual rolls, fold the dough around 1 slice of cheese and 2 slices of pepperoni. I generally need to fold the pieces of cheese and pepperoni up so as not to make it stretch the dough too thin.
+        1. After forming dough into the individual rolls, fold the dough around 1 slice of cheese and 2 slices of 
+            pepperoni. I generally need to fold the pieces of cheese and pepperoni up so as not to make it stretch 
+            the dough too thin.
         1. Cook as with the dinner roll recipe (350 F for 20-30 min).
 ---
 A Stanley P. original!
