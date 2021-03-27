@@ -7,8 +7,9 @@ image_view: true
 {% if page.image_view %}
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
+		{% assign sortedPosts = category[1] | sort: 'title' %}
 		<div class="recipes">
-			{% for recipe in category[1] %}
+			{% for recipe in sortedPosts %}
 				{% if recipe.featured_image %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
 				{% else %}
