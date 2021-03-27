@@ -6,7 +6,7 @@ html , body {
 
 body, input, textarea {
 	font-family: 'Fira Sans', sans-serif;
-	color: #222;
+	color: $primary;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -52,5 +52,5 @@ hr {
 
 a {
 	text-decoration: none;
-	color: #007eff;
+	color: $accent;
 }
