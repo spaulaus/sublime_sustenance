@@ -11,9 +11,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="66.960098"
-   height="32.079006"
-   viewBox="-22.5 0 66.960098 32.079006"
+   width="179.73694"
+   height="86.107742"
+   viewBox="-22.5 0 179.73694 86.107742"
    enable-background="new -22.5 0 68 67.5"
    xml:space="preserve"
    sodipodi:docname="logo.svg"
@@ -41,43 +41,44 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="7.6996072"
-   inkscape:cx="28.689394"
-   inkscape:cy="28.129278"
+   inkscape:zoom="2.7222222"
+   inkscape:cx="86.229067"
+   inkscape:cy="43.311043"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:document-rotation="0" />
 
 
 <path
    fill-rule="evenodd"
    clip-rule="evenodd"
-   d="m 67.223683,210.76898 c -0.243,-0.011 -0.487,-0.021 -0.73,-0.032 0.002,-0.082 0.004,-0.166 0.006,-0.249 0.243,0 0.487,0 0.73,0 -0.002,0.093 -0.004,0.187 -0.006,0.281 z"
+   d="m 123.6121,237.78335 c -0.243,-0.011 -0.487,-0.021 -0.73,-0.032 0.002,-0.082 0.004,-0.166 0.006,-0.249 0.243,0 0.487,0 0.73,0 -0.002,0.093 -0.004,0.187 -0.006,0.281 z"
    id="path28" />
 <path
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#ffffff"
-   d="m 11.022683,14.193978 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
+   d="m 67.411097,41.208343 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
    id="path30" />
 <path
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#ffffff"
-   d="m 17.750683,14.193978 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
+   d="m 74.139097,41.208343 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
    id="path32" />
 
 <path
    fill-rule="evenodd"
    clip-rule="evenodd"
    fill="#ffffff"
-   d="m 4.294683,14.193978 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
+   d="m 60.683097,41.208343 c 0,0.04 0,0.081 0,0.12 -0.002,0 -0.005,0 -0.008,0 0,-0.039 0,-0.08 0,-0.12 0.003,0 0.006,0 0.008,0 z"
    id="path42" />
 
 <g
    id="g915"
-   transform="matrix(0.66824882,0,0,0.66824882,-94.640792,-11.584902)"><circle
+   transform="matrix(1.7937399,0,0,1.7937399,-216.14317,-31.096651)"><circle
      style="fill:#7e2a0d;fill-opacity:1;stroke:#7e2a0d;stroke-width:0.761163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
      id="circle1005"
      cx="121.43354"
