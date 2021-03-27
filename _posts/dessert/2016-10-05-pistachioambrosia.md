@@ -3,6 +3,7 @@ date: 2016-10-05
 title: Pistachio Ambrosia or Green Goop
 categories:
     - Desserts
+tags: nuts fruit
 featured_image: 
 recipe:
     servings: 10

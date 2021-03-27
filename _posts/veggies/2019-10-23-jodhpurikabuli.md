@@ -3,6 +3,7 @@ date: 2019-10-23
 title: Jodhpuri Kabuli
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 4
     prep: 20 min

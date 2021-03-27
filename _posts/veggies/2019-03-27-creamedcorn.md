@@ -3,7 +3,8 @@ date: 2019-03-27
 title: Creamed Corn
 categories:
     - Veggies
-featured_image: 
+featured_image:
+tags: vegetarian
 recipe:
     servings: 5
     prep: 30 min

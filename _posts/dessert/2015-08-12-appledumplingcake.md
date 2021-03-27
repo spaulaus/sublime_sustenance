@@ -3,6 +3,7 @@ date: 2015-08-12
 title: Apple Dumpling Cake
 categories:
     - Desserts
+tags: apple cinnamon cake
 featured_image: 
 recipe:
     servings: 

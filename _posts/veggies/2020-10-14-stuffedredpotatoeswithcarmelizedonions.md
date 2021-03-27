@@ -1,8 +1,9 @@
 ---
 date: 2020-10-14
-title: Stuffed Red Tomatoes with Carmelized Onions
+title: Stuffed Red Potatoes with Carmelized Onions
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     prep: 45 min 
     cook: 10 min

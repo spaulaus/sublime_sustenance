@@ -3,6 +3,7 @@ date: 2016-01-06
 title: Cream Cheese Frosting
 categories:
     - Desserts
+tags: frosting
 featured_image: 
 recipe:
     servings: 12

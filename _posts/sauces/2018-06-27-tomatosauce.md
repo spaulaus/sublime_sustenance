@@ -3,7 +3,8 @@ date: 2018-06-27
 title: Tomato Sauce
 categories:
     - Sauces
-featured_image: 
+featured_image:
+tags: vegetarian vegan
 recipe:
     prep: 45 min 
     cook: 1-2 hours

@@ -3,6 +3,7 @@ date: 2021-01-27
 title: White Sweet Potatoes with Mirin and Honey
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     servings: 4 
     prep: 15-45 min

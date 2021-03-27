@@ -3,6 +3,7 @@ date: 2019-07-31
 title: Good to the Core Apple Chutney
 categories:
     - Veggies
+tags: vegetarian vegan
 featured_image: 
 recipe:
     prep: 30 min 

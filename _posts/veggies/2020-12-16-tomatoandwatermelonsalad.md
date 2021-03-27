@@ -3,6 +3,7 @@ date: 2020-12-16
 title: Tomato and Watermelon Salad
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     prep: 2.25 hours
     ingredients_markdown: |-

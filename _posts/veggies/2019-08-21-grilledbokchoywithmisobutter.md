@@ -3,6 +3,7 @@ date: 2019-08-21
 title: Grilled Bok Choy with Miso Butter
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 4

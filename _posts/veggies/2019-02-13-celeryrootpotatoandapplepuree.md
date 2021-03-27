@@ -3,6 +3,7 @@ date: 2019-02-13
 title: Celery Root Potato and Apple Puree
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     prep: 20 min 
     cook: 20 min

@@ -3,6 +3,7 @@ date: 2017-02-08
 title: Soda Cupcakes
 categories:
     - Desserts
+tags: cupcake
 featured_image: 
 recipe:
     servings: 12

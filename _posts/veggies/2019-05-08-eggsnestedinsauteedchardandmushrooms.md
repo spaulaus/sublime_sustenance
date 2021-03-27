@@ -3,6 +3,7 @@ date: 2019-05-08
 title: Eggs Nested in Sauteed Chard and Mushrooms
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 1 
     prep: 10 min

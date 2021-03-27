@@ -3,6 +3,7 @@ date: 2020-02-26
 title: Potato-Swiss Chard Curry
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     prep: 10min
     cook: 20-30 min

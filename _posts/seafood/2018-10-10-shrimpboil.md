@@ -3,6 +3,7 @@ date: 2018-10-10
 title: Shrimp Boil
 categories:
     - Seafood
+tags: shrimp corn sausage 
 featured_image: 
 recipe:
     servings: 

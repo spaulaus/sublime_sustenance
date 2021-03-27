@@ -3,12 +3,13 @@ date: 2020-03-18
 title: Red Beans with Cheese
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     prep: 10 min 
     cook: 20 min
     ingredients_markdown: |-
         * 2 19 oz cans kidney beans, drained and rinsed
-        * 2 14.5 oz cans low-sodium chicken stock
+        * 2 14.5 oz cans low-sodium chicken stock (or veggie stock)
         * 2 bay leaves
         * 1 medium onion, quartered
         * 1 fresh jalapeno chile, quartered

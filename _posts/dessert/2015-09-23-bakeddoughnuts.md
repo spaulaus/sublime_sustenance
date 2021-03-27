@@ -21,7 +21,7 @@ recipe:
         * 1 tablespoon honey
         * 1/2 cup butter, melted
     directions_markdown: |-
-        1. Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet, or donut baking pan.
+        1. Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet, or doughnut baking pan.
         1. In a medium bowl, mix sugar, baking powder, baking soda, nutmeg, cloves, cinnamon and flour.
         1. Mix buttermilk, eggs, honey and butter in a separate medium bowl
         1. Stir dry ingredients into the wet ingredients.

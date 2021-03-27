@@ -3,6 +3,7 @@ date: 2019-05-29
 title: Escarole Salad with Parmesan Dressing
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     prep: 15 min 
     ingredients_markdown: |-

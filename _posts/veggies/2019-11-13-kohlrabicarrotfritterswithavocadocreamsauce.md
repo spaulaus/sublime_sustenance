@@ -3,6 +3,7 @@ date: 2019-11-13
 title: Kohlrabi Carrot Fritters with Avocado Cream Sauce
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     servings: 2 
     prep: 20 min

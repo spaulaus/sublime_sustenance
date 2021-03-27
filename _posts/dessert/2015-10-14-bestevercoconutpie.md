@@ -3,6 +3,7 @@ date: 2015-10-14
 title: Best Ever Coconut Pie
 categories:
     - Desserts
+tags: coconut pie
 featured_image: 
 recipe:
     servings: 6 

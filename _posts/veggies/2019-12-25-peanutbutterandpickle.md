@@ -3,6 +3,7 @@ date: 2019-12-25
 title: Peanut Butter and Pickle Sandwiches
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 1 
     prep: 5 min

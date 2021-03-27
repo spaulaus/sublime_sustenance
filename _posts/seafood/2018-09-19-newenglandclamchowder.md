@@ -4,6 +4,7 @@ title: New England Clam Chowder
 categories:
     - Seafood
 featured_image: 
+tags: clams dairy
 recipe:
     servings: 6
     prep: 1 hour

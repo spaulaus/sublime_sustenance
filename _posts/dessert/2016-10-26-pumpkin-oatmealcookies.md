@@ -3,6 +3,7 @@ date: 2016-10-26
 title: Pumpkin Oatmeal Cookies
 categories:
     - Desserts
+tags: fruit cookie
 featured_image: 
 recipe:
     prep: 20 min 

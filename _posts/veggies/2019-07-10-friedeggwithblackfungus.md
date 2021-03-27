@@ -3,6 +3,7 @@ date: 2019-07-10
 title: Fried Egg with Black Fungus
 categories:
     - Veggies
+tags: vegetarian vegan
 featured_image: 
 recipe:
     servings: 2

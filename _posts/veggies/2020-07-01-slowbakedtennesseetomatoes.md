@@ -3,6 +3,7 @@ date: 2020-07-01
 title: Slow Baked Tennessee Tomatoes
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     servings: 6 
     prep: 15 min

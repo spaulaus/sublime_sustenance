@@ -3,6 +3,7 @@ date: 2016-09-14
 title: Peach Puzzle
 categories:
     - Desserts
+tags: fruit
 featured_image: 
 recipe:
     servings: 7 

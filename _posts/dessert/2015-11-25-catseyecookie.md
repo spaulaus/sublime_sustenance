@@ -3,6 +3,7 @@ date: 2015-11-25
 title: Cat's Eye Cookie
 categories:
     - Desserts
+tags: Polish holiday cookie
 featured_image: 
 recipe:
     servings: 2-3 dozen

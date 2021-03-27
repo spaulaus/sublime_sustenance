@@ -3,6 +3,7 @@ date: 2021-02-17
 title: Winter Squash Soup
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     prep: 20 min 
     cook: 30 min

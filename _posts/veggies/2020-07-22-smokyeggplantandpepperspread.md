@@ -3,6 +3,7 @@ date: 2020-07-22
 title: Smoky Eggplant and Pepper Spread
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 5
     prep: 30 min

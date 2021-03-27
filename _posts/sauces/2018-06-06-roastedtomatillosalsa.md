@@ -3,6 +3,7 @@ date: 2018-06-06
 title: Roasted Tomatillo Salsa
 categories:
     - Sauces
+tags: vegetarian vegan
 featured_image: 
 recipe:
     prep: 30 min

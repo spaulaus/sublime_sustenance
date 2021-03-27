@@ -3,6 +3,7 @@ date: 2019-12-04
 title: Oven Roasted Sweet Potato Fries
 categories:
     - Veggies
+tags: vegetarian vegan
 featured_image: 
 recipe:
     prep: 15 min 

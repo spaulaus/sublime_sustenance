@@ -3,6 +3,7 @@ date: 2016-03-30
 title: Fresh Cherry Cupcakes
 categories:
     - Desserts
+tags: cupcake fruit
 featured_image: 
 recipe:
     servings: 16 

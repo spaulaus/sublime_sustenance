@@ -3,6 +3,7 @@ date: 2019-09-11
 title: Hotel Sambar
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 4

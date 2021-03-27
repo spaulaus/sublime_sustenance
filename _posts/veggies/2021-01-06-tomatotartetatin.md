@@ -3,6 +3,7 @@ date: 2021-01-06
 title: Tomato Tarte Tatin
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 

@@ -3,6 +3,7 @@ date: 2016-04-20
 title: Graham Cracker Cupcakes
 categories:
     - Desserts
+tags: cupcake 
 featured_image: 
 recipe:
     servings: 2 dozen 

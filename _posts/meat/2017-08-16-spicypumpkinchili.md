@@ -3,6 +3,7 @@ date: 2017-08-16
 title: Spicy Pumpkin Chili
 categories:
     - Meat
+tags: beans chili
 featured_image: 
 recipe:
     servings: 6

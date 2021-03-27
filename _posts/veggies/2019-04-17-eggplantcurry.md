@@ -3,7 +3,8 @@ date: 2019-04-17
 title: Eggplant Curry
 categories:
     - Veggies
-featured_image: 
+featured_image:
+tags: vegetarian vegan
 recipe:
     prep: 45 min 
     cook: 23-30 min

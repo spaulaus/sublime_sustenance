@@ -3,6 +3,7 @@ date: 2019-03-06
 title: Corn Zucchini and Quinoa Cakes
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     servings: 4
     prep: 45 min

@@ -3,10 +3,7 @@ date: 2020-09-23
 title: Stosh's Stolen Peppers
 categories:
     - Veggies
-tags:
-    - spicy
-    - habanero
-    - jalapeno
+tags: spicy habanero jalapeno vegetarian vegan
 recipe:
     prep: 45 min 
     cook: 2-3 hours

@@ -3,6 +3,7 @@ date: 2020-11-25
 title: Thyme and Tomato Soup
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 6-8
@@ -16,7 +17,7 @@ recipe:
         * 1 T dried basil
         * To Taste Salt and pepper
         * 2 28 oz cans San Marzano tomatoes
-        * 1 c chicken stock
+        * 1 c chicken stock (or veggie)
         * 1/4 c whole milk or cream
     directions_markdown: |-
         1. In a heavy pot over medium heat, place a good sized knob of butter or oil, chopped onions and garlic. Allow the mixture to cook until the onions are soft.

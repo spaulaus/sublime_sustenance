@@ -3,6 +3,7 @@ date: 2020-05-20
 title: Roasted Tomatillo Salsa
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     prep: 25 min 
     cook: 15-30 min
@@ -21,7 +22,7 @@ recipe:
         1. Sprinkle with oil and roast 15 minutes, or until veggies are charred
         1. When cool enough to handle, discard pepper stems and drain liquid
         1. Coarsely chop roasted veggies in a food processor.
-        1. Place into sauce pan add salt \ pepper and bring to boil over medium heat
+        1. Place into sauce pan add salt & pepper and bring to boil over medium heat
         1. Cook, stirring occasionally until most of the liquid has boiled off, ~15 min.
         1. Cool, Transfer to a bowl, add cilantro.
         1. Serve immediately, or refrigerate up to 5 days.

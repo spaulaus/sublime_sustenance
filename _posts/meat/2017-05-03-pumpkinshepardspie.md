@@ -3,6 +3,7 @@ date: 2017-05-03
 title: Pumpkin Shepard's Pie
 categories:
     - Meat
+tags: meat pumpkin butternut
 featured_image: 
 recipe:
     servings: 4 

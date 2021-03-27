@@ -3,6 +3,7 @@ date: 2020-09-02
 title: Spicy Black Bean Cakes
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     prep: 15

@@ -3,6 +3,7 @@ date: 2020-04-08
 title: Roasted Eggplant and Red Pepper Soup
 categories:
     - Veggies
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 8 
@@ -15,7 +16,7 @@ recipe:
         * 2 medium onions, chopped
         * 1 medium leek, halved lengthwise, thinly sliced crosswise (white and pale green parts only; about 2 cups)
         * 6 large garlic cloves, minced
-        * 8 1/2 cups chicken stock or canned low-salt chicken broth
+        * 8 1/2 cups chicken stock or canned low-salt chicken broth (or veggie)
         * 3 tablespoons tomato paste
         * 1/4 cup chopped fresh basil
         * 2 tablespoons chopped fresh thyme

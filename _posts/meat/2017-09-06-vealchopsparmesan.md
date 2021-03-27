@@ -3,6 +3,7 @@ date: 2017-09-06
 title: Veal Chops Parmesan
 categories:
     - Meat
+tags: cheese egg 
 featured_image: 
 recipe:
     servings: 4 

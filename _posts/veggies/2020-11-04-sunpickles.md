@@ -3,6 +3,7 @@ date: 2020-11-04
 title: Sun Pickles
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     prep: 20 min 
     cook: 3 days

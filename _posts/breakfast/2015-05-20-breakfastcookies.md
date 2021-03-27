@@ -3,6 +3,10 @@ date: 2015-05-20
 title: Breakfast Cookies
 categories:
     - Breakfast
+tags:
+    - oats
+    - nuts
+    - fruit
 featured_image: 
 recipe:
     servings: 8

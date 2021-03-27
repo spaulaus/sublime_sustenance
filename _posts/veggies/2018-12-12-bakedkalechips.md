@@ -3,6 +3,7 @@ date: 2018-12-12
 title: Baked Kale Chips
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 5 
     prep: 1 hour

@@ -3,9 +3,7 @@ date: 2017-01-05
 title: Barb's Mustard Chicken
 categories:
     - Poultry
-tags:
-    - chicken
-    - mustard
+tags: chicken mustard
 featured_image:
 recipe:
     servings: 2

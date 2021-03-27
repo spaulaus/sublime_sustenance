@@ -3,6 +3,7 @@ date: 2015-12-16
 title: Coconut Angel Pie
 categories:
     - Desserts
+tags: coconut pie
 featured_image: 
 recipe:
     prep: 20 min 

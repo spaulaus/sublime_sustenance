@@ -3,6 +3,7 @@ date: 2017-06-14
 title: Saucy Thai Beef Noodles
 categories:
     - Meat
+tags: spicy nuts pasta
 featured_image: 
 recipe:
     prep: 20 min 

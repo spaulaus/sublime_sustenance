@@ -3,13 +3,14 @@ date: 2015-11-04
 title: Carrot Cake Cupcakes
 categories:
     - Desserts
+tags: cupcake
 featured_image: 
 recipe:
     servings: 12
     prep: 15 min
     cook: 16-18 min
     ingredients_markdown: |-
-        * 1 1/2 cups all purpose flour
+        * 1 1/2 cups all-purpose flour
         * 1 tsp baking soda
         * 1/2 tsp ground cinnamon
         * 1/2 tsp ground allspice

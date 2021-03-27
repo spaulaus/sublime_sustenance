@@ -3,6 +3,7 @@ date: 2016-12-07
 title: Pumpkin Pie Cookies
 categories:
     - Desserts
+tags: fruit cookie
 featured_image: 
 recipe:
     servings: 5

@@ -3,6 +3,7 @@ date: 2019-01-02
 title: Barley with Shiitake Mushrooms
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 4 
     prep: 20 min
@@ -16,7 +17,7 @@ recipe:
         * 1 carrot, chopped
         * 3 garlic cloves, minced
         * 1 cup barley
-        * 3 cups unsalted chicken broth
+        * 3 cups unsalted chicken broth (or veggie broth)
         * 2 tablespoons low-sodium soy sauce
     directions_markdown: |-
         1. Soak mushrooms in 2 cups hot water until tender. Drain mushrooms, reserving water. Trim mushroom stems and discard. Slice mushroom caps.

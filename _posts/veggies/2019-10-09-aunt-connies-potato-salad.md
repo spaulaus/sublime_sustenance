@@ -2,7 +2,8 @@
 date: 2019-10-09
 title: Aunt Connie's Potato Salad
 categories:
-  - Veggies
+  - Veggies 
+tags: vegetarian
 recipe:
   prep: 45 minutes
   ingredients_markdown: |-

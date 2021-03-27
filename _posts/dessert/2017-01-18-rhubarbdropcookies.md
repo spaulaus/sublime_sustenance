@@ -3,6 +3,7 @@ date: 2017-01-18
 title: Rhubarb Drop Cookies
 categories:
     - Desserts
+tags: cookie nuts
 featured_image: 
 recipe:
     servings: 

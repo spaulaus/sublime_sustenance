@@ -3,6 +3,7 @@ date: 2020-08-12
 title: Spiced Peppers and Eggplant
 categories:
     - Veggies
+tags: vegetarian vegan
 recipe:
     servings: 4
     prep: 10 min

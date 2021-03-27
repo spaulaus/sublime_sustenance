@@ -3,6 +3,7 @@ date: 2018-01-31
 title: Indian Curry Sauce
 categories:
     - Sauces
+tags: vegetarian
 featured_image: 
 recipe:
     servings: 

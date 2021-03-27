@@ -3,6 +3,7 @@ date: 2018-01-10
 title: Habanero Sauce
 categories:
     - Sauces
+tags: vegetarian vegan
 featured_image: 
 recipe:
     prep: 5 min

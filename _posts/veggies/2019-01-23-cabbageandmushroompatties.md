@@ -3,6 +3,7 @@ date: 2019-01-23
 title: Cabbage and Mushroom Patties
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     prep: 20 min 
     cook: 30 min

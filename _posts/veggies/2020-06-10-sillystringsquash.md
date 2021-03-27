@@ -3,6 +3,7 @@ date: 2020-06-10
 title: Silly String Squash
 categories:
     - Veggies
+tags: vegetarian vegan
 featured_image: 
 recipe:
     prep: 10 min 

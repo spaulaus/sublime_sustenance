@@ -3,6 +3,7 @@ date: 2014-12-03
 title: English Muffins
 categories:
     - Bread
+tags: breakfast
 featured_image: 
 recipe:
     prep: 1-2 hours

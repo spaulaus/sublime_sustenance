@@ -3,6 +3,7 @@ date: 2020-02-05
 title: Potato Leek Soup (Portage Parmentier)
 categories:
     - Veggies
+tags: vegetarian
 recipe:
     servings: 6-8 
     prep: 20 min
@@ -26,3 +27,5 @@ From Mastering the Art of French Cooking: Vol. 1 by Julia Child
 add water cress and you have a water-cress soup, or stir in cream and chill it for vichyssoise. To change the formula 
 a bit, add carrots, string beans, cauliflower, broccoli, or anything else you think would go with it, and vary the 
 proportions as you wish." - Julia Child
+
+One thing she didn't mention is walnut-sized sausage balls. Just brown them off before adding to the soup.

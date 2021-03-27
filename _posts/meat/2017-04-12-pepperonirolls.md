@@ -3,6 +3,7 @@ date: 2017-04-12
 title: Pepperoni Rolls
 categories:
     - Meat
+tags: cheese meat veggie
 featured_image: 
 recipe:
     servings: 12

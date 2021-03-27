@@ -3,6 +3,7 @@ date: 2014-11-12
 title: Crackers - Version 2
 categories:
     - Bread
+tags: butter crispy
 featured_image: 
 recipe:
     prep: 10 min

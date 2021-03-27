@@ -3,6 +3,7 @@ date: 2020-04-29
 title: Roasted Potatoes and Peppers
 categories:
     - Veggies
+tags: vegetarian vegan spicy
 recipe:
     servings: 6
     prep: 10 min

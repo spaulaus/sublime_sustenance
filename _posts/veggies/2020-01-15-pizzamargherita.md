@@ -3,7 +3,8 @@ date: 2020-01-15
 title: Pizza Margherita
 categories:
     - Veggies
-featured_image: 
+featured_image:
+tags: vegetarian vegan
 recipe:
     servings: 8 
     prep: 20 min

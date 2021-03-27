@@ -3,6 +3,7 @@ date: 2016-01-27
 title: Easy Betty Crocker Cake
 categories:
     - Desserts
+tags: cake frosting 
 featured_image: 
 recipe:
     servings: 10

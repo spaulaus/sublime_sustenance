@@ -3,7 +3,11 @@ date: 2015-07-01
 title: Homemade Oat Cereal
 categories:
     - Breakfast
-featured_image: 
+featured_image:
+tags:
+    - fruit
+    - oats
+    - nuts
 recipe:
     prep: 15 min
     cook: 15 - 30 min

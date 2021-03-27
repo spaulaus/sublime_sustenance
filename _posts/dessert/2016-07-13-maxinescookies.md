@@ -3,6 +3,7 @@ date: 2016-07-13
 title: Maxine's Cookies
 categories:
     - Desserts
+tags: cookie
 featured_image: 
 recipe:
     servings: 3 dozen

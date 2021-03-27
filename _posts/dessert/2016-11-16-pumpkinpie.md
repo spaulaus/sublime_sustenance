@@ -3,6 +3,7 @@ date: 2016-11-16
 title: Pumpkin Pie
 categories:
     - Desserts
+tags: fruit
 featured_image: 
 recipe:
     servings: 8

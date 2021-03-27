@@ -3,6 +3,7 @@ date: 2016-06-22
 title: Individual Strawberry-Rhubarb Galettes
 categories:
     - Desserts
+tags: fruit
 featured_image: 
 recipe:
     servings: 6-8 
