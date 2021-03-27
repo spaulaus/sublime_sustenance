@@ -14,4 +14,17 @@ title: Home
 	<hr>
 	<h2>Search</h2>
 	{% include search.html %}
+
+	<hr>
+	<h2>
+		Recent Additions
+	</h2>
+	<ul>
+		{% for post in site.posts offset: 0 limit: 5  %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+		{% endfor %}
+	</ul>
+
 </section>
