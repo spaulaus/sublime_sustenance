@@ -1,5 +1,5 @@
 ---
-date: 2017-01-05
+date: 2021-03-25
 title: Barb's Mustard Chicken
 categories:
     - Poultry
