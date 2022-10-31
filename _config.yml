@@ -8,7 +8,7 @@ google_analytics_key:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /logo.png
+logo: /sigil.png
 description: Recipes for tasty food
 author:
   name: Stan Paulauskas
@@ -68,6 +68,7 @@ exclude:
   - README.md
   - LICENSE
   - s3_website.yml
+  - images/sigil.svg
   - images/logo.svg
 
 # -----------

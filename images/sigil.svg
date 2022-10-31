@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.46609mm"
+   height="145.71179mm"
+   viewBox="0 0 145.46609 145.71179"
+   version="1.1"
+   id="svg325"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs322" />
+  <g
+     id="layer1"
+     transform="translate(84.059318,-34.114443)">
+    <g
+       id="g320"
+       transform="translate(-112.58448,-137.94456)">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+         id="circle1916"
+         cx="101.25821"
+         cy="245.03775"
+         r="71.733047" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect1918"
+         width="98.376198"
+         height="98.376198"
+         x="52.479389"
+         y="-294.05634"
+         transform="rotate(135)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1920"
+         transform="scale(-1,1)"
+         d="m -66.604846,279.67108 a 50.738255,50.738255 0 0 1 0.12736,-69.40251" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1922"
+         transform="matrix(0,1,1,0,0,0)"
+         d="m 279.54848,135.76047 a 54.839294,50.738255 0 0 1 0.0197,-68.569418" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+         id="path1924"
+         transform="scale(1,-1)"
+         d="m 135.81851,-210.62587 a 54.8064,53.448856 0 0 1 -0.0567,-68.91976" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80.263419,245.03775 21.222251,20.10666 21.39279,-20.02587 -21.62024,-69.64326 -20.994801,69.56247"
+         id="path1926" />
+    </g>
+  </g>
+</svg>
