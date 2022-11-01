@@ -9,7 +9,7 @@ recipe:
     prep: 15 minutes 
     cook: 15 minutes 
     ingredients_markdown: |-
-        * 16 oz. rotini
+        * 16 oz. tri-color rotini
         * 1-2 cucumbers
         * 2 tomatoes
         * 2 stalks celery
